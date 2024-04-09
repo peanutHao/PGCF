@@ -1,4 +1,4 @@
-#Progressive Group Convolution Fusion Network for Colon Polyp Segmentation
+# Progressive Group Convolution Fusion Network for Colon Polyp Segmentation
 
 ## 1. Abstract
 <div align="justify">
